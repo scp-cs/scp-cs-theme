@@ -1,4 +1,4 @@
-# scp-cs-theme
-SCP-CS theme based on the NUSCP theme
+# SCP-CS Theme
+[![License: CC BY-SA 3.0](https://img.shields.io/badge/License-CC%20BY--SA%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/3.0/)
 
-This is herby released under the CC BY-SA 3.0 license.
+This is the SCP-CS theme. It is based on the [Black Highlighter](http://scp-wiki.wikidot.com/theme:black-highlighter-theme) theme.
