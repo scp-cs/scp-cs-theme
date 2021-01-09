@@ -1,0 +1,10 @@
+@import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/normalize.min.css");
+@import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/black-highlighter.min.css");
+
+@supports(display: grid) {
+    :root {
+        --header-title: "SCP Nadace";
+        --header-subtitle: "Česká Větev SCP Nadace";
+        --logo-image: url("http://scp-int.wdfiles.com/local--files/cs-hub/SCP-CS.png");
+    }
+}
