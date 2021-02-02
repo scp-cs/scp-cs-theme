@@ -4,6 +4,6 @@
 
 @supports(display: grid) {
     :root {
-        --logo-image: url("http://scp-cs.wdfiles.com/local--files/theme%3Acs-theme/SCP-CS-Logo.svg");
+        --logo-image: url("https://gitcdn.link/repo/scp-cs/scp-cs-wiki/master/SVGs/SCP-CS-Logo.svg");
     }
 }
