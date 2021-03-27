@@ -1,9 +1,9 @@
 @import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/normalize.min.css");
 @import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/black-highlighter.min.css");
-@import url("https://gitcdn.link/repo/scp-cs/scp-cs-wiki/master/BHL-Theme-fix.css");
+@import url("https://gitcdn.xyz/repo/scp-cs/scp-cs-wiki/master/BHL-Theme-fix.css");
 
 @supports(display: grid) {
     :root {
-        --logo-image: url("https://gitcdn.link/repo/scp-cs/scp-cs-wiki/master/SVGs/SCP-CS-Logo.svg");
+        --logo-image: url("https://gitcdn.xyz/repo/scp-cs/scp-cs-wiki/master/SVGs/SCP-CS-Logo.svg");
     }
 }
