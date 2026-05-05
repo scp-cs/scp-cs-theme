@@ -1,6 +1,5 @@
 @import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/normalize.min.css");
 @import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/black-highlighter.min.css");
-@import url("https://cdn.jsdelivr.net/gh/scp-cs/scp-cs-wiki/BHL-Theme-fix.css");
 
 @supports(display: grid) {
     :root {
